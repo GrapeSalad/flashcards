@@ -4,4 +4,9 @@
 
 *[class^='clickable']{
   color: #0088cc;
+  cursor: pointer;
+}
+
+*[class^='clickable']:hover{
+  text-decoration: underline;
 }
