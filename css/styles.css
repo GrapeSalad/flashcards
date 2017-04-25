@@ -1,0 +1,7 @@
+*[class^='initially-hidden'] {
+  display: none;
+}
+
+*[class^='clickable']{
+  color: #0088cc;
+}
